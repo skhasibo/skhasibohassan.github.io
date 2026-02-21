@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Presentations"
+title: "Presentations & Training"
 permalink: /presentations/
 author_profile: true
 ---
